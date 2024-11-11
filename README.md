@@ -1,4 +1,4 @@
-# Heart Disease Prediction Project
+# Evaluando el rendimiento de modelos de Machine Learning para Predicción de Enfermedades Cardíacas
 
 Este proyecto utiliza técnicas de aprendizaje automático para predecir la presencia de enfermedades cardíacas en individuos con base en un conjunto de datos que contiene varios indicadores de salud.
 
